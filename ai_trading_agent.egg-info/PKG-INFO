@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: ai-trading-agent
+Version: 0.1
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: streamlit
+Requires-Dist: plotly
+Requires-Dist: vaderSentiment
+Requires-Dist: torch
+Requires-Dist: transformers

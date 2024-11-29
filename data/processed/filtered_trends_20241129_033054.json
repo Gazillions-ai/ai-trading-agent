@@ -1,0 +1,468 @@
+{
+  "trends": [
+    {
+      "text": "IF YOU ARE STILL HOLDING $XRP, YOU EARNED MY RESPECT!    \n\nHit  if you DIDNT SELL! https://t.co/Pmq1LKJ03Q",
+      "created_at": "Fri Nov 22 18:41:03 +0000 2024",
+      "favorite_count": 3279,
+      "retweet_count": 177,
+      "id": "1860030749581475856",
+      "engagement_score": 3456,
+      "matched_keywords": [
+        "$"
+      ],
+      "identified_coins": [
+        "XRP"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "scores": {
+          "neg": 0.0,
+          "neu": 0.773,
+          "pos": 0.227,
+          "compound": 0.6616
+        }
+      },
+      "signal_score": 1
+    },
+    {
+      "text": "If $ETH hits $5,000 by the end of \n2024, I will give $2,500 ETH to 5\npeople who like this post and are \nfollowing me. https://t.co/jrEnBJD9aq",
+      "created_at": "Thu Nov 28 01:01:12 +0000 2024",
+      "favorite_count": 6514,
+      "retweet_count": 883,
+      "id": "1861938358907228530",
+      "engagement_score": 7397,
+      "matched_keywords": [
+        "$",
+        "eth"
+      ],
+      "identified_coins": [
+        "ETH"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "scores": {
+          "neg": 0.0,
+          "neu": 0.909,
+          "pos": 0.091,
+          "compound": 0.3612
+        }
+      },
+      "signal_score": 1
+    },
+    {
+      "text": "F**k!! Just made $1,500,000 from #CHILLGUY and Im giving away 25 $SOL\n\nI will be helping 5 of you guys (5 SOL) per each. It can be used to buy your first memecoin or to buy your first Crypto.\n\nJust RETWEET, drop your ADDRESS and make sure youre a FOLLOWER.\n\nLets go fam  https://t.co/dmS00ZT25Q",
+      "created_at": "Sun Nov 24 08:21:29 +0000 2024",
+      "favorite_count": 853,
+      "retweet_count": 661,
+      "id": "1860599608784654403",
+      "engagement_score": 1514,
+      "matched_keywords": [
+        "crypto",
+        "coin",
+        "meme",
+        "$"
+      ],
+      "identified_coins": [
+        "SOL",
+        "CHILLGUY"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "scores": {
+          "neg": 0.035,
+          "neu": 0.839,
+          "pos": 0.126,
+          "compound": 0.658
+        }
+      },
+      "signal_score": 1
+    },
+    {
+      "text": "Cant believe I lived to see my $XRP bag pump. It happened in my lifetime. https://t.co/bRk2EWd9rH",
+      "created_at": "Fri Nov 22 02:23:55 +0000 2024",
+      "favorite_count": 3350,
+      "retweet_count": 294,
+      "id": "1859784846207504873",
+      "engagement_score": 3644,
+      "matched_keywords": [
+        "$"
+      ],
+      "identified_coins": [
+        "XRP"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "scores": {
+          "neg": 0.0,
+          "neu": 1.0,
+          "pos": 0.0,
+          "compound": 0.0
+        }
+      },
+      "signal_score": 0.5645
+    },
+    {
+      "text": "Donald Trump is very sure that #Bitcoin and #crypto will skyrocket like never before even beyond your expectations. \n \n $BTC is now trading above $96000.  \n \nHODL your crypto. https://t.co/8GuhP3r1Bq",
+      "created_at": "Wed Nov 27 23:18:23 +0000 2024",
+      "favorite_count": 66,
+      "retweet_count": 39,
+      "id": "1861912485403459724",
+      "engagement_score": 105,
+      "matched_keywords": [
+        "crypto",
+        "coin",
+        "$",
+        "btc"
+      ],
+      "identified_coins": [
+        "crypto",
+        "Bitcoin",
+        "BTC"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "scores": {
+          "neg": 0.0,
+          "neu": 0.836,
+          "pos": 0.164,
+          "compound": 0.624
+        }
+      },
+      "signal_score": 1
+    },
+    {
+      "text": "If $DOGE hits $1 by the end of 2024, \nI will give $2,000 DOGE to 20 people\nwho likes this post &amp; are following me. https://t.co/oh8SvUMFgi",
+      "created_at": "Sat Nov 23 04:42:39 +0000 2024",
+      "favorite_count": 8714,
+      "retweet_count": 1594,
+      "id": "1860182149749702669",
+      "engagement_score": 10308,
+      "matched_keywords": [
+        "$"
+      ],
+      "identified_coins": [
+        "DOGE"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "scores": {
+          "neg": 0.0,
+          "neu": 0.899,
+          "pos": 0.101,
+          "compound": 0.4215
+        }
+      },
+      "signal_score": 1
+    },
+    {
+      "text": "Donald Trump said that he will fire Gary Gensler on day 1.\n\nBREAKING:  Gary Gensler to resign as SEC chair on January 20th.\n\n#Crypto #CryptoNews #Trump2024 https://t.co/diH99HxIEK",
+      "created_at": "Thu Nov 21 18:36:58 +0000 2024",
+      "favorite_count": 388,
+      "retweet_count": 140,
+      "id": "1859667335369589237",
+      "engagement_score": 528,
+      "matched_keywords": [
+        "crypto"
+      ],
+      "identified_coins": [
+        "CryptoNews",
+        "Crypto",
+        "Trump"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "scores": {
+          "neg": 0.161,
+          "neu": 0.839,
+          "pos": 0.0,
+          "compound": -0.5859
+        }
+      },
+      "signal_score": -0.9189
+    },
+    {
+      "text": "I want to send $100,500 to someone who has never won before, like + rt + THANK YOU!! https://t.co/m0uUat6gzA",
+      "created_at": "Sun Nov 24 10:09:50 +0000 2024",
+      "favorite_count": 779,
+      "retweet_count": 549,
+      "id": "1860626875761991995",
+      "engagement_score": 1328,
+      "matched_keywords": [
+        "$"
+      ],
+      "identified_coins": [],
+      "sentiment": {
+        "label": "negative",
+        "scores": {
+          "neg": 0.226,
+          "neu": 0.595,
+          "pos": 0.18,
+          "compound": -0.2867
+        }
+      },
+      "signal_score": -0.2405
+    },
+    {
+      "text": "#Bitcoin Sobald die globale Liquiditt steigt, wird es den nchsten massiven Pump geben  https://t.co/Ajwmd4XFdE",
+      "created_at": "Thu Nov 28 16:26:22 +0000 2024",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "id": "1862171184206397677",
+      "engagement_score": 2,
+      "matched_keywords": [
+        "coin"
+      ],
+      "identified_coins": [
+        "Bitcoin"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "scores": {
+          "neg": 0.231,
+          "neu": 0.769,
+          "pos": 0.0,
+          "compound": -0.5994
+        }
+      },
+      "signal_score": -0.9985000000000002
+    },
+    {
+      "text": "Theres this popular scam on crypto twitter and I honestly still dont know how people fall for this shit \n\nNEVER GIVE YOUR SEED PHASE TO ANYBODY.\nDont screenshot it too.\nWrite it down and keep it safe.\n\nThats literally the password to your wallet and money, dont be dumb  https://t.co/iMHOIl6Laa",
+      "created_at": "Thu Nov 28 16:29:58 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "id": "1862172088905166955",
+      "engagement_score": 0,
+      "matched_keywords": [
+        "crypto"
+      ],
+      "identified_coins": [],
+      "sentiment": {
+        "label": "positive",
+        "scores": {
+          "neg": 0.125,
+          "neu": 0.695,
+          "pos": 0.18,
+          "compound": 0.351
+        }
+      },
+      "signal_score": 0.9019999999999999
+    },
+    {
+      "text": "1000X #Altcoin season is about to start! https://t.co/dzREcy8Dsn",
+      "created_at": "Fri Nov 22 17:03:00 +0000 2024",
+      "favorite_count": 3231,
+      "retweet_count": 601,
+      "id": "1860006076307112152",
+      "engagement_score": 3832,
+      "matched_keywords": [
+        "coin"
+      ],
+      "identified_coins": [
+        "Altcoin"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "scores": {
+          "neg": 0.0,
+          "neu": 1.0,
+          "pos": 0.0,
+          "compound": 0.0
+        }
+      },
+      "signal_score": 0.5832999999999999
+    },
+    {
+      "text": "Theres our little crypto expert, come over and tell us about bitcoins and dogecoins again https://t.co/2pjMNDYYFt",
+      "created_at": "Thu Nov 28 15:34:11 +0000 2024",
+      "favorite_count": 376,
+      "retweet_count": 28,
+      "id": "1862158050863571046",
+      "engagement_score": 404,
+      "matched_keywords": [
+        "crypto",
+        "coin"
+      ],
+      "identified_coins": [],
+      "sentiment": {
+        "label": "neutral",
+        "scores": {
+          "neg": 0.0,
+          "neu": 1.0,
+          "pos": 0.0,
+          "compound": 0.0
+        }
+      },
+      "signal_score": 0.4405
+    },
+    {
+      "text": "#cardano #crypto #btc My Birthday wish came true. :) https://t.co/UrGF16IHPA",
+      "created_at": "Fri Nov 22 18:31:35 +0000 2024",
+      "favorite_count": 1091,
+      "retweet_count": 186,
+      "id": "1860028371130024439",
+      "engagement_score": 1277,
+      "matched_keywords": [
+        "crypto",
+        "btc"
+      ],
+      "identified_coins": [
+        "btc",
+        "crypto",
+        "cardano"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "scores": {
+          "neg": 0.0,
+          "neu": 0.452,
+          "pos": 0.548,
+          "compound": 0.8176
+        }
+      },
+      "signal_score": 1
+    },
+    {
+      "text": "#BITCOIN BULLISH DIVERGENCE! https://t.co/9brMiDvmsd",
+      "created_at": "Tue Nov 26 13:23:15 +0000 2024",
+      "favorite_count": 783,
+      "retweet_count": 143,
+      "id": "1861400325967544599",
+      "engagement_score": 926,
+      "matched_keywords": [
+        "coin"
+      ],
+      "identified_coins": [
+        "BITCOIN"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "scores": {
+          "neg": 0.0,
+          "neu": 1.0,
+          "pos": 0.0,
+          "compound": 0.0
+        }
+      },
+      "signal_score": 0.2927
+    },
+    {
+      "text": "#Altcoin history is EXACTLY repeating! https://t.co/8cTEmtBR3T",
+      "created_at": "Sat Nov 23 19:21:00 +0000 2024",
+      "favorite_count": 4904,
+      "retweet_count": 1038,
+      "id": "1860403192300818590",
+      "engagement_score": 5942,
+      "matched_keywords": [
+        "coin"
+      ],
+      "identified_coins": [
+        "Altcoin"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "scores": {
+          "neg": 0.0,
+          "neu": 1.0,
+          "pos": 0.0,
+          "compound": 0.0
+        }
+      },
+      "signal_score": 0.7943
+    }
+  ],
+  "metadata": {
+    "total_tweets": 15,
+    "keyword_stats": {
+      "crypto": 6,
+      "coin": 7,
+      "token": 0,
+      "meme": 1,
+      "$": 7,
+      "btc": 2,
+      "eth": 1
+    },
+    "sentiment_stats": {
+      "positive": 7,
+      "neutral": 5,
+      "negative": 3
+    },
+    "average_engagement": 2710.866666666667,
+    "weighted_sentiment": 0.26357188598972037,
+    "coin_metrics": {
+      "XRP": {
+        "mentions": 2,
+        "avg_sentiment": 0.3308,
+        "total_engagement": 7100,
+        "signal_strength": 0.07542239999999999
+      },
+      "ETH": {
+        "mentions": 1,
+        "avg_sentiment": 0.3612,
+        "total_engagement": 7397,
+        "signal_strength": 0.041891976000000004
+      },
+      "SOL": {
+        "mentions": 1,
+        "avg_sentiment": 0.658,
+        "total_engagement": 1514,
+        "signal_strength": 0.05050808
+      },
+      "CHILLGUY": {
+        "mentions": 1,
+        "avg_sentiment": 0.658,
+        "total_engagement": 1514,
+        "signal_strength": 0.05050808
+      },
+      "CRYPTO": {
+        "mentions": 3,
+        "avg_sentiment": 0.28523333333333334,
+        "total_engagement": 1910,
+        "signal_strength": 0.06794258
+      },
+      "BITCOIN": {
+        "mentions": 3,
+        "avg_sentiment": 0.008199999999999985,
+        "total_engagement": 1033,
+        "signal_strength": 0.0018094119999999968
+      },
+      "BTC": {
+        "mentions": 2,
+        "avg_sentiment": 0.7208,
+        "total_engagement": 1382,
+        "signal_strength": 0.10938860799999998
+      },
+      "DOGE": {
+        "mentions": 1,
+        "avg_sentiment": 0.4215,
+        "total_engagement": 10308,
+        "signal_strength": 0.05706548
+      },
+      "CRYPTONEWS": {
+        "mentions": 1,
+        "avg_sentiment": -0.5859,
+        "total_engagement": 528,
+        "signal_strength": -0.04112236799999999
+      },
+      "TRUMP": {
+        "mentions": 1,
+        "avg_sentiment": -0.5859,
+        "total_engagement": 528,
+        "signal_strength": -0.04112236799999999
+      },
+      "ALTCOIN": {
+        "mentions": 2,
+        "avg_sentiment": 0.0,
+        "total_engagement": 9774,
+        "signal_strength": 0.0
+      },
+      "CARDANO": {
+        "mentions": 1,
+        "avg_sentiment": 0.8176,
+        "total_engagement": 1277,
+        "signal_strength": 0.061467167999999996
+      }
+    },
+    "timestamp": "2024-11-29T03:30:54.006568"
+  }
+}

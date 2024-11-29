@@ -1,0 +1,18 @@
+{
+  "signals": [
+    {
+      "coin": "BTC",
+      "action": "BUY",
+      "strength": 0.10938860799999998,
+      "confidence": 0.2,
+      "metrics": {
+        "mentions": 2,
+        "avg_sentiment": 0.7208,
+        "total_engagement": 1382,
+        "signal_strength": 0.10938860799999998
+      },
+      "timestamp": "2024-11-29T03:30:54.009566"
+    }
+  ],
+  "timestamp": "2024-11-29T03:30:54.009566"
+}

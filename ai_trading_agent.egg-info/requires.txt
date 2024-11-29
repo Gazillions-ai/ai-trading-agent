@@ -1,0 +1,7 @@
+numpy
+pandas
+streamlit
+plotly
+vaderSentiment
+torch
+transformers
